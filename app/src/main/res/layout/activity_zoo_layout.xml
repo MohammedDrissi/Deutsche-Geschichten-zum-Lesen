@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/mitteGrau"
+    tools:context="a1geschichten.GebutsTag">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+
+        android:fontFamily="casual"
+        android:text="Ein Besuch im Zoo\n\nLisa und ihre Familie gingen am Wochenende in den Zoo. Lisa war sehr aufgeregt, weil sie ihre Lieblingstiere, die Elefanten, sehen wollte. Sie gingen zuerst zu den Löwen, die laut brüllten.\n\nDann kamen sie zu den Affen, die von Baum zu Baum sprangen. Lisa lachte, als ein kleiner Affe eine Banane klaute. Schließlich erreichten sie die Elefanten. Lisa sah fasziniert zu, wie die Elefanten mit ihren Rüsseln spielten.\n\nAm Ende des Tages kaufte Lisa ein kleines Plüschtier als Andenken. Sie war glücklich und wusste, dass sie diesen Tag im Zoo nie vergessen würde.&quot; "
+        android:textColor="@color/white"
+        android:textSize="24sp" />
+</ScrollView>

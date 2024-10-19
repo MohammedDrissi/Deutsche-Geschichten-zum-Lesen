@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/mitteGrau"
+    tools:context="a1geschichten.GebutsTag">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+
+        android:fontFamily="casual"
+        android:text="Der mysteriöse Fremde\n\nIn der kleinen Stadt am Fluss geschah etwas Ungewöhnliches: Ein mysteriöser Fremder tauchte auf. Niemand wusste, woher er kam oder was er wollte. Er trug immer einen schwarzen Mantel und einen Hut, der sein Gesicht teilweise verbarg. Die Leute im Dorf begannen, Geschichten über ihn zu erzählen, manche sagten, er sei ein ehemaliger Spion, andere glaubten, er sei ein Schatzsucher.\n\nMarie, eine junge Frau aus dem Dorf, beschloss, mehr über diesen Mann herauszufinden. Sie beobachtete ihn oft, wie er in der Nähe des alten Bahnhofs stand und in ein Notizbuch schrieb. Eines Tages sprach sie ihn an, und zu ihrer Überraschung war er freundlich und höflich. Er erzählte ihr, dass er ein Schriftsteller sei, der nach Inspiration für sein neues Buch suchte.\n\nMarie war fasziniert und fragte ihn über seine Geschichten. Er erzählte von seinen Reisen durch ferne Länder und den Abenteuern, die er erlebt hatte. Doch je mehr sie miteinander sprachen, desto mehr hatte Marie das Gefühl, dass er ihr nicht die ganze Wahrheit erzählte. Sie bemerkte, dass er oft in Rätseln sprach und seine Antworten vage hielt.\n\nEines Nachts, als Marie nicht schlafen konnte, sah sie Licht im alten Haus am Stadtrand, das seit Jahren verlassen war. Sie schlich sich hin und sah den Fremden im Inneren, umgeben von Karten und alten Dokumenten. Sie konnte erkennen, dass er nach etwas suchte, aber sie wusste nicht, was es war. Plötzlich drehte er sich um und sah direkt in ihre Richtung.\n\nAnstatt sie wegzuschicken, lächelte er und winkte sie hinein. Er gestand ihr, dass er auf der Suche nach einem geheimen Manuskript war, das angeblich in dieser Stadt versteckt sein sollte. Es war ein Werk von unschätzbarem Wert, das seit Jahrhunderten verloren war. Er hatte den Ort gefunden, an dem es sich befinden könnte, aber er brauchte Hilfe, um es zu bergen.\n\nMarie entschied sich, ihm zu helfen, und zusammen suchten sie weiter. Am Ende fanden sie das Manuskript, gut versteckt in einer Geheimkammer. Der Fremde dankte ihr für ihre Hilfe und erzählte ihr, dass sie Teil einer Geschichte geworden sei, die die Welt bald lesen würde. Sie lächelte, weil sie wusste, dass sie ein Abenteuer erlebt hatte, das sie niemals vergessen würde."
+        android:textColor="@color/white"
+        android:textSize="24sp" />
+</ScrollView>

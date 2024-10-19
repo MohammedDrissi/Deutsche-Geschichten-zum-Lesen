@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/mitteGrau"
+    tools:context="a1geschichten.GebutsTag">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+
+        android:fontFamily="casual"
+        android:text="Ein Tag im Tierpark\n\nMax und seine Schwester Lea freuten sich schon lange auf den Besuch im Tierpark. Es war ein sonniger Tag, als sie mit ihren Eltern losfuhren. Am Eingang kauften sie Tickets und betraten gespannt den Park. Überall gab es große Schilder mit Bildern von Tieren.\n\nSie gingen zuerst zu den Löwen. Max war beeindruckt von der Größe der Tiere. „Schau mal, wie stark sie aussehen!“, sagte er. Lea nickte und machte ein Foto. Danach gingen sie zu den Elefanten, die gerade mit Wasser spielten. Lea lachte und sagte: „Die Elefanten sind meine Lieblingstiere!“\n\nIm Affengehege beobachteten sie, wie die Affen von Baum zu Baum sprangen. Einer der Affen kam ganz nah an das Glas und machte lustige Gesichter. Max und Lea lachten laut und machten viele Fotos. Dann besuchten sie die Giraffen und fütterten sie mit frischen Blättern.\n\nAm Nachmittag machten sie eine Pause und setzten sich an einen Tisch im Park. Sie aßen Sandwiches und tranken Saft. Max erzählte begeistert von den Tieren, die er gesehen hatte, und Lea zeichnete ein Bild von einem Elefanten in ihrem Notizbuch.\n\nAls sie den Tierpark verließen, waren sie müde, aber sehr glücklich. „Das war der beste Tag überhaupt!“, sagte Max. Lea stimmte zu und beide freuten sich darauf, bald wiederzukommen."
+        android:textColor="@color/white"
+        android:textSize="24sp" />
+</ScrollView>

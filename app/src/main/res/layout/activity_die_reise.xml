@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/mitteGrau"
+    tools:context="a1geschichten.GebutsTag">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+
+        android:fontFamily="casual"
+        android:text="Die Reise zum Meer\n\nLetzten Sommer machte die Familie Müller eine spannende Reise zum Meer. Am Morgen packten sie ihre Koffer mit Sonnencreme, Handtüchern und Spielsachen. Die Kinder, Anna und Lukas, waren sehr aufgeregt. Sie sprangen ins Auto und die Reise begann. „Wann sind wir da?“, fragten sie immer wieder. Nach zwei Stunden Fahrt sahen sie endlich das blaue Wasser. Es war wunderschön!\n\nAm Strand angekommen, liefen Anna und Lukas direkt ins Wasser. Das Wasser war kühl, aber sehr erfrischend. Sie spielten mit den Wellen und sammelten Muscheln. Anna fand eine große, bunte Muschel und rief: „Schau mal, Lukas! Diese Muschel ist toll!“ Lukas nickte und sammelte auch einige Muscheln. Nach dem Schwimmen machten sie eine Pause und aßen ein leckeres Picknick mit Sandwiches und Obst.\n\nAm Nachmittag bauten sie große Sandburgen und verzierten sie mit Muscheln. Ihre Eltern machten Fotos von ihnen. Es machte so viel Spaß! Am Abend, als die Sonne unterging, gingen sie zum Wasser. Sie sahen den wunderschönen Sonnenuntergang und sammelten Steine am Strand.\n\nAm Ende des Tages waren sie müde, aber glücklich. Sie sprachen darüber, dass sie bald wieder zum Meer fahren wollten. Es war ein perfekter Tag voller Abenteuer und Spaß!&quot; "
+        android:textColor="@color/white"
+        android:textSize="24sp" />
+</ScrollView>

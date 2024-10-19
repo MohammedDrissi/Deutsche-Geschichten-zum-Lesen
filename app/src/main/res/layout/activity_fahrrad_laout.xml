@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/mitteGrau"
+    tools:context="a1geschichten.GebutsTag">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+
+        android:fontFamily="casual"
+        android:text="Ein neues Fahrrad\n\nTom wollte schon immer ein neues Fahrrad haben. Eines Tages schenkte ihm sein Vater ein blaues Fahrrad zum Geburtstag. Tom war sehr glücklich und konnte es kaum erwarten, es auszuprobieren.\n\nAm nächsten Morgen fuhr Tom mit seinem neuen Fahrrad zum Park. Er fühlte sich frei, als er schnell über die Wege fuhr und den Wind in seinen Haaren spürte. Die Leute im Park lächelten ihn an, und Tom winkte ihnen fröhlich zu.\n\nPlötzlich sah Tom einen kleinen Hund auf dem Weg. Er bremste schnell, um den Hund nicht zu verletzen. Der Hund bellte und lief weg. Tom war froh, dass nichts passiert war, und setzte seine Fahrt fort. Er wusste, dass er nun viele Abenteuer mit seinem neuen Fahrrad erleben würde.&quot; "
+        android:textColor="@color/white"
+        android:textSize="24sp" />
+</ScrollView>

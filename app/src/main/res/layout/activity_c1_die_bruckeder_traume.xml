@@ -1,0 +1,20 @@
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/mitteGrau"
+    tools:context="a1geschichten.GebutsTag">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+
+        android:fontFamily="casual"
+        android:text="Die Brücke der Träume\n\nIn einer Stadt, die durch eine alte Steinbrücke geteilt war, lebte ein junger Mann namens Theo, der Träume sammelte. Er war bekannt dafür, die Träume der Menschen in Geschichten zu verwandeln, die sie inspirierten und zum Nachdenken anregten. Eines Nachts, während er am Fluss saß, bemerkte er, dass die Brücke zu leuchten begann, und eine geheimnisvolle Figur erschien vor ihm.\n\nDie Figur stellte sich als der Hüter der Träume vor und erzählte Theo von einer besonderen Aufgabe: Er solle die verlorenen Träume der Menschen zurückholen, die im Nebel der Vergessenheit verschwunden waren. Der Hüter gab Theo eine goldene Feder, mit der er die Träume aufschreiben konnte. Theo war begeistert und versprach, die Träume zu finden.\n\nEr begann seine Reise über die Brücke, die in eine andere Welt führte. In dieser Welt traf er auf Menschen, die ihre Träume vergessen hatten. Jeder von ihnen hatte eine Geschichte zu erzählen, aber die Worte schienen in der Luft zu schweben, unerreichbar. Theo wusste, dass er die Geschichten aufzeichnen musste, um die Träume zurückzubringen.\n\nMit der goldenen Feder begann Theo, die Geschichten zu schreiben. Er hörte von verlorenen Hoffnungen, unvollendeten Projekten und unerfüllten Wünschen. Während er schrieb, nahm die Brücke Form an und verband die beiden Welten miteinander. Die Farben der Träume und Geschichten flossen in die Feder und verwandelten sich in lebendige Bilder.\n\nAls Theo die letzten Worte schrieb, bemerkte er, dass die Menschen um ihn herum anfingen, zu lächeln. Die Träume kehrten zurück, und mit ihnen die Hoffnung und der Glaube an eine bessere Zukunft. Theo wusste, dass er seine Aufgabe erfüllt hatte, und als er zur Brücke zurückkehrte, wurde er vom Hüter der Träume empfangen, der ihm für seine Hingabe dankte. Theo hatte nicht nur die Träume der Menschen zurückgebracht, sondern auch seine eigene Leidenschaft für das Geschichtenerzählen wiederentdeckt."
+        android:textColor="@color/white"
+        android:textSize="24sp" />
+</ScrollView>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/mitteGrau"
+    tools:context="a1geschichten.GebutsTag">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+
+        android:fontFamily="casual"
+        android:text="Der Fluch des verborgenen Tempels\n\nTief im Herzen eines dunklen Waldes stand ein alter Tempel, um den sich viele Legenden rankten. Man sagte, dass dieser Tempel von einem Fluch belegt sei und dass jeder, der ihn betrat, nie wieder zurückkehrte. Eines Tages entschloss sich der Archäologe Lukas, diesen Tempel zu erforschen und die Geheimnisse zu enthüllen, die darin verborgen waren.\n\nLukas bereitete sich sorgfältig vor und nahm alles mit, was er für seine Expedition brauchte. Als er den Tempel betrat, spürte er eine unheimliche Stille. Die Wände waren mit seltsamen Symbolen bedeckt, die er noch nie zuvor gesehen hatte. In der Mitte des Tempels stand ein alter Altar, auf dem ein merkwürdiger, leuchtender Kristall lag.\n\nWährend Lukas den Kristall betrachtete, begann er, ein Flüstern zu hören, das aus den tiefen Schatten des Tempels zu kommen schien. Die Stimme schien ihn zu warnen, den Kristall nicht zu berühren. Doch Lukas konnte der Versuchung nicht widerstehen. In dem Moment, als er den Kristall berührte, spürte er, wie eine kalte Energie seinen Körper durchströmte.\n\nPlötzlich begann der Tempel zu beben, und die alten Symbole an den Wänden leuchteten in einem unheimlichen Licht. Lukas wusste, dass er einen uralten Fluch ausgelöst hatte, der den Tempel und vielleicht die ganze Region bedrohte. Er rannte so schnell er konnte hinaus, während der Tempel hinter ihm in sich zusammenzufallen begann.\n\nAls Lukas wieder sicher im Wald stand, sah er, wie der Tempel im Boden versank, als wäre er nie da gewesen. Er wusste, dass er eine große Gefahr heraufbeschworen hatte, aber er war auch fasziniert von der Macht, die in diesem Kristall steckte. Lukas beschloss, seine Forschungen fortzusetzen, doch diesmal würde er vorsichtiger sein und die Geheimnisse des verborgenen Tempels nicht so leichtfertig preisgeben."
+        android:textColor="@color/white"
+        android:textSize="24sp" />
+</ScrollView>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/mitteGrau"
+    tools:context="a1geschichten.GebutsTag">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+
+        android:fontFamily="casual"
+        android:text="Die Farben der Erinnerung\n\nIn einem kleinen Dorf, das von bunten Blumen und strahlendem Licht umgeben war, lebte ein junger Künstler namens Emil. Er hatte ein besonderes Talent, die Schönheit der Natur auf seine Leinwände zu bannen. Doch trotz seiner Fähigkeiten fühlte sich Emil oft leer und uninspiriert. Eines Tages beschloss er, einen neuen Weg zu finden, um seine Kreativität zu entfachen.\n\nEr hörte von einem alten Künstler, der in einer abgelegenen Hütte im Wald lebte. Dieser Künstler soll das Geheimnis des Schaffens kennen, das die Farben der Erinnerung erwecken kann. Neugierig machte sich Emil auf den Weg, um den alten Meister zu finden. Nach vielen Stunden des Wanderns fand er schließlich die Hütte, umgeben von einer magischen Atmosphäre.\n\nDer alte Künstler, ein weiser Mann mit einem langen weißen Bart, nahm Emil freundlich auf. Er sah die Traurigkeit in Emils Augen und wusste sofort, dass der junge Mann etwas Besonderes suchte. Der Meister bot Emil an, ihm das Geheimnis der Farben zu zeigen, doch er musste dafür eine Herausforderung meistern: Er musste die Farben seiner eigenen Erinnerungen finden.\n\nEmil war verwirrt, aber er war bereit, alles zu tun, um seine Kreativität zurückzugewinnen. Der alte Meister gab ihm einen leeren Pinsel und eine Palette, die nur dann Farben annehmen würden, wenn Emil an seine schönsten Erinnerungen dachte. Emil setzte sich und schloss die Augen, während er versuchte, seine Erinnerungen zu visualisieren.\n\nEr dachte an seine Kindheit, an die warmen Sommertage, die er mit Freunden verbracht hatte. Plötzlich leuchteten die Farben auf seiner Palette auf: das strahlende Gelb der Sonne, das lebhafte Blau des Himmels. Er malte und malte, und die Farben flossen auf die Leinwand, bis sie eine atemberaubende Landschaft bildeten.\n\nDer alte Meister beobachtete Emil mit einem Lächeln. Er wusste, dass Emil die Farben seiner Erinnerungen gefunden hatte. Von diesem Tag an konnte Emil seine Kreativität wieder entfalten und begann, seine Erlebnisse und Emotionen in seinen Bildern festzuhalten. Die Farben, die er gefunden hatte, waren nicht nur eine Reflexion seiner Erinnerungen, sondern auch ein Geschenk, das er mit der Welt teilen konnte."
+        android:textColor="@color/white"
+        android:textSize="24sp" />
+</ScrollView>

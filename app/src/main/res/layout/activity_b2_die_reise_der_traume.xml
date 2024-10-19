@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/mitteGrau"
+    tools:context="a1geschichten.GebutsTag">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+
+        android:fontFamily="casual"
+        android:text="Die Reise der Träume\n\nAnna war eine junge Frau, die immer davon geträumt hatte, die Welt zu bereisen. Sie lebte in einer kleinen Stadt und arbeitete in einem Café, doch ihr Herz sehnte sich nach Abenteuern und fernen Ländern. Eines Tages beschloss sie, ihre Träume nicht länger aufzuschieben und begann, ihre Reise zu planen.\n\nSie sparte monatelang ihr Geld und studierte Landkarten und Reiseführer. Als der Tag ihrer Abreise endlich kam, fühlte sie sich frei wie nie zuvor. Ihr erster Halt war Paris, die Stadt der Lichter. Sie schlenderte durch die Straßen, besuchte den Eiffelturm und genoss Croissants in kleinen Bäckereien. Paris war wunderschön, aber Anna wusste, dass ihre Reise gerade erst begonnen hatte.\n\nVon dort aus führte ihr Weg sie nach Italien, wo sie die Kunst und Architektur von Florenz bewunderte und in Rom die alten Ruinen besuchte. In jedem neuen Land, das sie besuchte, lernte sie neue Menschen kennen und hörte ihre Geschichten. Sie erkannte, dass Reisen nicht nur darum ging, neue Orte zu sehen, sondern auch darum, sich mit Menschen aus verschiedenen Kulturen zu verbinden.\n\nEines der bewegendsten Erlebnisse hatte sie in Nepal, als sie eine Gruppe von Mönchen traf, die ihr die Bedeutung von innerem Frieden und Meditation beibrachten. Diese Begegnung veränderte Annas Sicht auf das Leben. Sie begann, mehr im Moment zu leben und die Schönheit in den kleinen Dingen zu sehen.\n\nNach vielen Monaten kehrte Anna schließlich in ihre Heimatstadt zurück. Doch sie war nicht mehr dieselbe Person wie zuvor. Sie hatte nicht nur neue Länder gesehen, sondern auch eine neue Seite an sich selbst entdeckt. Ihre Reise hatte sie gelehrt, dass Träume wahr werden können, wenn man den Mut hat, ihnen zu folgen.\n\nAnna erzählte ihren Freunden und ihrer Familie von ihren Abenteuern, und obwohl sie wieder zu Hause war, wusste sie, dass die Reise in ihrem Herzen weiterging. Sie hatte gelernt, dass das größte Abenteuer im Leben darin besteht, sich selbst zu finden und immer wieder neue Träume zu wagen."
+        android:textColor="@color/white"
+        android:textSize="24sp" />
+</ScrollView>

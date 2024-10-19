@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/mitteGrau"
+    tools:context="a1geschichten.GebutsTag">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+
+        android:fontFamily="casual"
+        android:text=" Die Freundschaft \n\n   Lena und Tom waren beste Freunde und lebten in derselben Straße. Sie verbrachten jede freie Minute miteinander und hatten immer viel Spaß. Eines Tages beschlossen sie, etwas Besonderes zu tun. Sie wollten einen Baum pflanzen, um ihre Freundschaft zu symbolisieren.\n\nLena und Tom fanden einen kleinen Baum im Garten von Lenas Eltern. Sie gruben ein Loch und pflanzten den Baum. Nachdem sie den Baum gepflanzt hatten, gossen sie ihn mit Wasser und sahen, wie er langsam wuchs. „Dieser Baum wird unser Freund!“, sagte Tom lachend. Lena nickte und sagte: „Ja, wir müssen gut auf ihn aufpassen!“\n\nDie beiden Freunde besuchten den Baum jeden Tag und gaben ihm Wasser. Nach einigen Wochen begann der Baum zu blühen, und Lena und Tom waren stolz. Eines Tages, während sie unter dem Baum spielten, kam ein kleiner Vogel und setzte sich auf die Äste. Lena sagte: „Schau, unser Baum hat einen Freund!“ Tom nickte begeistert und sie beschlossen, den Vogel zu füttern.\n\nSie brachten Brotkrumen und beobachteten den Vogel, der fröhlich pickte. Der Baum wurde größer und stärker, und so wurde auch die Freundschaft zwischen Lena und Tom. Sie spielten oft unter dem Baum, machten Picknicks und erzählten sich Geschichten. Jedes Jahr feierten sie den Jahrestag, an dem sie den Baum gepflanzt hatten. Ihre Freundschaft war einzigartig und der Baum wurde ihr Symbol dafür.&quot; "
+        android:textColor="@color/white"
+        android:textSize="24sp" />
+</ScrollView>

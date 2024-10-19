@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+android:id="@+id/main"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:background="@color/mitteGrau"
+tools:context="a1geschichten.GebutsTag">
+
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_margin="10dp"
+
+    android:fontFamily="casual"
+    android:text="Die neue Schule\n\nEmma war nervös. Es war ihr erster Tag in der neuen Schule. Sie kannte noch niemanden und war unsicher, wie es werden würde. Ihre Mutter begleitete sie bis zum Schultor und sagte: „Viel Glück, Emma! Du wirst viele neue Freunde finden.“\n\nAls Emma das Klassenzimmer betrat, sah sie viele fremde Gesichter. Der Lehrer, Herr Müller, begrüßte sie freundlich und stellte sie der Klasse vor. „Das ist Emma, eure neue Mitschülerin“, sagte er. Die anderen Kinder winkten ihr zu, und Emma setzte sich auf einen freien Platz.\n\nIn der Pause kam ein Mädchen namens Sophie zu Emma und sagte: „Möchtest du mit uns spielen?“ Emma nickte und folgte Sophie zu einer Gruppe Kinder. Sie spielten zusammen Fangen und hatten viel Spaß. Emma fühlte sich gleich besser und lachte viel.\n\nAm Nachmittag gab es Kunstunterricht. Emma malte ein Bild von einem Regenbogen. Herr Müller schaute sich das Bild an und sagte: „Das ist wunderschön, Emma!“ Sie lächelte stolz und war froh, dass sie ihre kreative Seite zeigen konnte.\n\nAls sie nach Hause kam, erzählte sie ihrer Mutter von ihrem Tag. „Es war toll! Ich habe viele neue Freunde gefunden“, sagte sie glücklich. Ihre Mutter umarmte sie und sagte: „Ich wusste, dass du es schaffen wirst.“"
+    android:textColor="@color/white"
+    android:textSize="24sp" />
+</ScrollView>

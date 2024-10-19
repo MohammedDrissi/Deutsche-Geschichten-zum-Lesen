@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/mitteGrau"
+    tools:context="a1geschichten.GebutsTag">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+
+        android:fontFamily="casual"
+        android:text="Das neue Spielzeug\n\nMax hatte sich schon lange ein neues Spielzeug gewünscht: ein ferngesteuertes Auto. An seinem Geburtstag bekam er endlich das Spielzeug von seinen Eltern. Er war so glücklich, dass er fast sprang! Er packte das Geschenk sofort aus und konnte es kaum erwarten, zu spielen. Das Auto war rot und schnell. Max nahm die Fernbedienung und drückte den Knopf. Das Auto fuhr schnell über den Boden und Max rief begeistert: „Wow, das ist fantastisch!“\n\nEr spielte im Garten und ließ das Auto über den Rasen rasen. Max war stolz und wollte, dass seine Freunde mit ihm spielten. Als seine Freunde Tom und Lisa kamen, rief er: „Kommt, schaut euch mein neues Auto an!“ Sie waren sehr neugierig und wollten auch spielen. Max erklärte ihnen, wie die Fernbedienung funktionierte und sie nahmen nacheinander die Kontrolle über das Auto.\n\nDie Kinder hatten viel Spaß, und das Auto fuhr über Wiesen und durch kleine Pfützen. Plötzlich passierte etwas Unerwartetes: Das Auto fuhr zu schnell und landete in einem Busch! Alle lachten und Max musste helfen, das Auto wieder zu finden. Schließlich schafften sie es, das Auto zu befreien.\n\nAm Ende des Tages waren die Kinder müde, aber glücklich. Max sagte: „Das war der beste Geburtstag aller Zeiten!“ Seine Freunde stimmten zu und sie versprachen, am nächsten Tag wieder zu spielen.&quot; "
+        android:textColor="@color/white"
+        android:textSize="24sp" />
+</ScrollView>

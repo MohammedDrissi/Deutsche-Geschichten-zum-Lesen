@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/mitteGrau"
+    tools:context="a1geschichten.GebutsTag">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+
+        android:fontFamily="casual"
+        android:text="Der Geburtstag von Lisa\n\nEs war ein besonderer Tag für Lisa, denn sie feierte ihren zehnten Geburtstag. Ihre Eltern hatten eine große Feier geplant und sie waren sehr aufgeregt. Am Morgen wachte Lisa früh auf und sah viele bunte Geschenke in ihrem Zimmer. Sie sprang aus dem Bett und rief: „Hurra, es ist mein Geburtstag!“ Zuerst zog sie ihr schönstes Kleid an. Danach half sie ihrer Mutter, die Vorbereitungen für die Party zu treffen.\n\nAls die Freunde von Lisa kamen, waren sie alle sehr fröhlich. Sie sangen das Lied „Happy Birthday“ für Lisa. Lisa schnitt die große, leckere Torte an, die mit vielen bunten Kerzen geschmückt war. Alle klatschten und jubelten, als sie die Torte probierten. Es gab auch viele andere Köstlichkeiten wie Kekse und Limonade. Nach dem Essen hatten die Kinder eine tolle Zeit. Sie spielten im Garten, rannten herum und hatten viel Spaß.\n\nEines der Spiele war „Reise nach Jerusalem“. Lisa und ihre Freunde lachten und waren sehr glücklich. Am Ende des Spiels bekam Lisa ein wunderschönes Geschenk von ihrer besten Freundin. Es war ein wunderschönes Armband. Lisa war so glücklich, dass sie ihrer Freundin ein großes Dankeschön sagte.\n\nAm Abend, als die Party vorbei war, fühlte sich Lisa müde, aber sehr zufrieden. Sie dachte an all die schönen Momente und die Freude, die sie mit ihren Freunden geteilt hatte. Es war ein unvergesslicher Geburtstag, und Lisa wusste, dass sie ihn nie vergessen würde.&quot; "
+        android:textColor="@color/white"
+        android:textSize="24sp" />
+</ScrollView>
+

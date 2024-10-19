@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/mitteGrau"
+    tools:context="a1geschichten.GebutsTag">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+
+        android:fontFamily="casual"
+        android:text="Der Ausflug zum Bauernhof\n\nHeute macht die Klasse von Frau Müller einen Ausflug zum Bauernhof. Die Kinder sind sehr aufgeregt. Sie steigen in den Bus und fahren los. Nach einer kurzen Fahrt sehen sie den großen Bauernhof. Auf dem Bauernhof gibt es viele Tiere: Kühe, Hühner, Schafe und Pferde. Die Kinder gehen zuerst zu den Kühen. Der Bauer zeigt ihnen, wie man die Kühe melkt. Lisa fragt: „Tut das der Kuh weh?“ Der Bauer lacht und sagt: „Nein, Lisa, das tut der Kuh nicht weh. Es ist wie eine Massage für sie!“\n\nDanach gehen sie zu den Hühnern. Die Hühner laufen im Hof herum und picken Körner vom Boden auf. Max sagt: „Schau, das Huhn hat ein Ei gelegt!“ Die Kinder sind überrascht und schauen das Ei genau an. Sie lernen, dass die Hühner jeden Tag Eier legen. Dann führt der Bauer sie zu den Schafen. Die Schafe sind weich und kuschelig. Die Kinder dürfen ein kleines Lamm streicheln. Es ist so weich und niedlich! Alle Kinder lachen und haben viel Spaß.\n\nZum Schluss besuchen sie die Pferde. Die Pferde sind groß und schön. Ein Pferd namens Bella kommt zu den Kindern und schnuppert an Lisas Hand. Lisa streichelt Bella vorsichtig und sagt: „Du bist so lieb, Bella!“ Der Bauer erzählt, dass Bella gerne Karotten frisst. Lisa gibt Bella eine Karotte, und Bella frisst sie ganz schnell auf.\n\nAm Ende des Tages sind die Kinder müde, aber glücklich. Sie steigen wieder in den Bus und fahren zurück zur Schule. Unterwegs sprechen sie über die Tiere und was sie alles gelernt haben. Frau Müller ist stolz auf ihre Klasse und sagt: „Ihr habt heute viel gelernt!“ Die Kinder lächeln und wissen, dass sie einen tollen Tag hatten.&quot; "
+        android:textColor="@color/white"
+        android:textSize="24sp" />
+</ScrollView>

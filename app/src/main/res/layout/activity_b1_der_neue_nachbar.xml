@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/mitteGrau"
+    tools:context="a1geschichten.GebutsTag">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+
+        android:fontFamily="casual"
+        android:text="Der neue Nachbar\n\nIn der kleinen Stadt zog ein neuer Nachbar ein. Seine Name war Herr Becker, und er war ein älterer Herr mit einem freundlichen Lächeln. Die Leute in der Straße waren neugierig und wollten mehr über ihn erfahren.\n\nEines Tages lud Herr Becker alle Nachbarn zu einer kleinen Party in seinem Garten ein. Es gab Kuchen, Tee und frisches Obst. Alle Nachbarn kamen, um ihn kennenzulernen. Sie erzählten ihm Geschichten über die Stadt und das Leben dort.\n\nHerr Becker erzählte, dass er früher Lehrer war und jetzt im Ruhestand lebt. Er liebt es, im Garten zu arbeiten und Bücher zu lesen. Die Kinder in der Nachbarschaft mochten ihn sofort, weil er immer interessante Geschichten erzählte und ihnen kleine Rätsel gab.\n\nBald wurde Herr Becker ein wichtiger Teil der Gemeinschaft. Er half den Nachbarn bei kleinen Reparaturen und pflegte den Gemeinschaftsgarten. Jeder freute sich, einen so netten und hilfsbereiten Nachbarn zu haben.\n\nMit der Zeit wurde Herr Becker ein Freund für alle. Er zeigte den Kindern, wie man Gemüse anbaut, und brachte den Erwachsenen bei, wie man leckere Gerichte aus der Ernte zubereitet. Die Menschen in der Straße waren froh, dass Herr Becker Teil ihrer Gemeinschaft geworden war."
+        android:textColor="@color/white"
+        android:textSize="24sp" />
+</ScrollView>

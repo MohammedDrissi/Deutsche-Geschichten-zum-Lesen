@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/mitteGrau"
+    tools:context="a1geschichten.GebutsTag">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+
+        android:fontFamily="casual"
+        android:text="Der verlorene Hund\n\nLisa ging oft mit ihrem Hund Bello spazieren. Eines Tages, als sie durch den Park gingen, erschrak Bello plötzlich und rannte davon. Lisa rief seinen Namen, aber Bello war verschwunden. Sie suchte überall, aber konnte ihn nicht finden.\n\nVerzweifelt fragte Lisa die Leute im Park, ob sie ihren Hund gesehen hätten. Ein älterer Mann sagte: „Ich habe einen Hund in die Richtung des Waldes rennen sehen.“ Lisa rannte sofort dorthin und suchte weiter.\n\nNach einer Stunde hörte sie ein Bellen aus einem Busch. Als sie näher kam, sah sie Bello, der feststeckte. Sie half ihm vorsichtig heraus und umarmte ihn. „Oh Bello, ich habe mir solche Sorgen gemacht!“, sagte sie erleichtert.\n\nSie gingen zurück nach Hause, und Lisa erzählte ihrer Familie die ganze Geschichte. Ihre Mutter sagte: „Du hast wirklich Mut gezeigt, Lisa. Bello ist glücklich, dass er so eine treue Freundin hat.“\n\nSeit diesem Tag passt Lisa noch besser auf Bello auf und lässt ihn nicht mehr aus den Augen. Sie wusste, wie wichtig es war, aufeinander aufzupassen, und Bello blieb immer in ihrer Nähe."
+        android:textColor="@color/white"
+        android:textSize="24sp" />
+</ScrollView>

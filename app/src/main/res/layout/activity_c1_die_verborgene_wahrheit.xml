@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/mitteGrau"
+    tools:context="a1geschichten.GebutsTag">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+
+        android:fontFamily="casual"
+        android:text="Die Verborgene Wahrheit\n\nIn einer alten Universitätsbibliothek, tief verborgen in den Katakomben, entdeckte der Historiker Martin ein geheimnisvolles Manuskript. Das Dokument war in einer alten Sprache verfasst und schien Hinweise auf ein uraltes Geheimnis zu enthalten, das über Jahrhunderte hinweg gut gehütet worden war. Martin war sofort fasziniert und begann, das Manuskript zu entschlüsseln.\n\nNach wochenlangen Studien fand er heraus, dass das Manuskript von einer vergessenen Zivilisation erzählte, die einst in den Bergen Europas lebte. Diese Zivilisation war für ihre wissenschaftlichen und technischen Entdeckungen bekannt, die ihrer Zeit weit voraus waren. Doch all ihr Wissen wurde absichtlich in den Schatten der Geschichte verbannt, aus Angst vor den Konsequenzen, die es mit sich bringen könnte.\n\nMartin beschloss, dieser Spur zu folgen, und machte sich auf den Weg in die abgelegenen Berge. Dort, in einer versteckten Höhle, fand er Spuren dieser verlorenen Zivilisation: Artefakte, alte Geräte und Symbole, die auf eine fortgeschrittene Technologie hindeuteten. Er erkannte, dass das Wissen dieser Zivilisation, wenn es in die falschen Hände gelangte, großen Schaden anrichten könnte.\n\nAls Martin tiefer grub, stieß er auf Hinweise, dass diese Zivilisation absichtlich ihre eigene Spur verwischt hatte, um zu verhindern, dass ihr Wissen missbraucht wurde. Sie hatten ihre Entdeckungen in Rätseln und Chiffren versteckt, die nur von denen verstanden werden konnten, die den richtigen Geist und das Wissen besaßen. Martin wusste, dass er an einem Wendepunkt der Geschichte stand.\n\nEr beschloss, das Geheimnis zu schützen und nur das zu veröffentlichen, was die Welt bereit war zu verstehen. In seinem Buch enthüllte er nur einen Teil der Wahrheit, genug, um die Neugier der Menschen zu wecken und sie zum Nachdenken anzuregen, ohne dabei das gefährliche Wissen preiszugeben. Die Welt begann über seine Entdeckungen zu spekulieren, und viele suchten nach den verborgenen Antworten.\n\nMartin wusste, dass er eine Verantwortung trug. Er entschied, das restliche Wissen vorerst für sich zu behalten und darauf zu warten, dass die Menschheit bereit war, es zu verstehen. Das Manuskript und die Artefakte blieben in der Höhle versteckt, nur darauf wartend, von einer zukünftigen Generation entdeckt zu werden, die bereit war, die verborgene Wahrheit zu verstehen."
+        android:textColor="@color/white"
+        android:textSize="24sp" />
+</ScrollView>

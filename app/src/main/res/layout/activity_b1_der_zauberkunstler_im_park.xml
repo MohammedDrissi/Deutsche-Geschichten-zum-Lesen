@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/mitteGrau"
+    tools:context="a1geschichten.GebutsTag">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+
+        android:fontFamily="casual"
+        android:text="Der Zauberkünstler im Park\n\nAn einem sonnigen Sonntag gingen Felix und seine Familie in den Stadtpark. Zu ihrer Überraschung gab es dort eine kleine Bühne, und ein Zauberkünstler trat auf. Felix liebte Zaubertricks und war gespannt, was er sehen würde.\n\nDer Zauberkünstler trug einen schwarzen Hut und einen roten Umhang. Er zauberte Blumen aus der Luft und ließ Karten verschwinden. Die Kinder klatschten begeistert und riefen: „Noch einen Trick! Noch einen Trick!“\n\nDann bat der Zauberkünstler um einen Freiwilligen aus dem Publikum. Felix hob sofort die Hand und durfte auf die Bühne kommen. Der Zauberkünstler flüsterte ihm zu: „Halte diesen Zauberstab gut fest.“ Felix hielt ihn fest, und plötzlich kam eine Taube aus dem Hut geflogen. Alle klatschten und jubelten.\n\nNach der Show bedankte sich der Zauberkünstler bei Felix und schenkte ihm einen kleinen Zauberhut als Andenken. Felix war überglücklich und versprach, selbst ein Zauberkünstler zu werden.\n\nAuf dem Heimweg zeigte Felix seiner Familie stolz den Zauberhut und erzählte, wie viel Spaß er gehabt hatte. Er wusste, dass dieser Tag im Park einer der schönsten Tage seines Lebens war."
+        android:textColor="@color/white"
+        android:textSize="24sp" />
+</ScrollView>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/mitteGrau"
+    tools:context="a1geschichten.GebutsTag">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+
+        android:fontFamily="casual"
+        android:text="Die verlorene Stadt\n\nEs war einmal eine Legende über eine verlorene Stadt tief im Dschungel, eine Stadt, die vor Jahrhunderten von einem mächtigen König erbaut worden sein soll. Viele Abenteurer hatten versucht, sie zu finden, aber keiner war jemals zurückgekehrt. Paul, ein junger Archäologe, beschloss, der Legende nachzugehen und machte sich auf den Weg, um das Geheimnis dieser mystischen Stadt zu lüften.\n\nPaul bereitete sich monatelang vor. Er studierte alte Karten und sprach mit Experten, die ihm wertvolle Hinweise gaben. Schließlich brach er auf, begleitet von einem kleinen Team erfahrener Forscher. Der Weg führte sie durch dichten Dschungel, über hohe Berge und durch reißende Flüsse. Es war eine Reise voller Gefahren, aber auch voller Entdeckungen.\n\nNach Wochen der Suche fanden sie endlich den Eingang zur verlorenen Stadt, verborgen hinter einer dichten Wand aus Pflanzen. Die Mauern der Stadt waren mit alten Symbolen und Schriftzeichen bedeckt, die Paul sofort erkannte. Sie stammten aus einer längst vergessenen Zivilisation. Die Stadt schien verlassen zu sein, aber sie spürten eine merkwürdige Präsenz, als ob die Geister der Vergangenheit noch immer dort verweilten.\n\nWährend sie die Ruinen durchstreiften, stießen sie auf einen großen Tempel im Zentrum der Stadt. In seinem Inneren fanden sie eine Statue aus purem Gold, die den alten König darstellte. Doch als sie sich der Statue näherten, begann der Boden zu beben, und eine Falltür öffnete sich unter ihren Füßen. Sie rutschten hinab in eine unterirdische Kammer, die mit Fallen gespickt war.\n\nMit großer Vorsicht und ihrem Wissen über antike Technologien gelang es Paul und seinem Team, die Fallen zu entschärfen und den Weg hinaus zu finden. Am Ende der Kammer fanden sie ein Artefakt, das so alt war, dass selbst Paul seine Bedeutung nicht sofort erkannte. Es schien der Schlüssel zu einem noch größeren Geheimnis zu sein.\n\nPaul wusste, dass ihre Entdeckung erst der Anfang war. Die verlorene Stadt hatte ihnen ihre Schätze gezeigt, aber auch viele neue Rätsel aufgeworfen. Zurück in der Zivilisation wurden sie als Helden gefeiert, doch Paul konnte nicht aufhören, an das Artefakt zu denken. Er wusste, dass seine wahre Bedeutung noch entdeckt werden musste, und dass die Geheimnisse der verlorenen Stadt ihn noch lange begleiten würden."
+        android:textColor="@color/white"
+        android:textSize="24sp" />
+</ScrollView>

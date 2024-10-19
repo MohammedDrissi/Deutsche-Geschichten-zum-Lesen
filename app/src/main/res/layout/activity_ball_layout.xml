@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/mitteGrau"
+    tools:context="a1geschichten.GebutsTag">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+
+        android:fontFamily="casual"
+        android:text="Der verlorene Ball\n\nLukas spielte jeden Nachmittag mit seinem roten Ball im Garten. Eines Tages rollte der Ball über den Zaun und verschwand. Lukas war traurig, weil er seinen Lieblingsball nicht finden konnte.\n\nSein Freund Max kam vorbei und sagte: „Komm, wir suchen ihn zusammen.“ Sie durchsuchten den ganzen Garten, aber der Ball war nirgends zu sehen.\n\nSchließlich sahen sie den Ball in einem Busch. Max griff hinein und holte den Ball heraus. Lukas war so glücklich, dass er seinen Freund umarmte. Sie spielten weiter und hatten viel Spaß zusammen. Lukas wusste, dass Freunde immer da sind, um zu helfen."
+        android:textColor="@color/white"
+        android:textSize="24sp" />
+</ScrollView>

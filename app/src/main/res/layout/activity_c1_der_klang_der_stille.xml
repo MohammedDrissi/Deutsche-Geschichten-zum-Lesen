@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/mitteGrau"
+    tools:context="a1geschichten.GebutsTag">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+
+        android:fontFamily="casual"
+        android:text="Der Klang der Stille\n\nIn einer hektischen Stadt, in der der Lärm nie zu enden schien, lebte eine junge Frau namens Lara, die eine besondere Fähigkeit hatte: Sie konnte die Stille hören. Während andere Menschen in der Hektik des Lebens gefangen waren, fand Lara in den ruhigen Momenten des Lebens Frieden und Inspiration. Doch das Leben in der Stadt wurde für sie immer unerträglicher, und sie sehnte sich nach einem Ort, an dem die Stille sie umgeben konnte.\n\nEines Tages beschloss Lara, der Stadt zu entfliehen und einen Ort zu finden, an dem sie die Stille wirklich erleben konnte. Sie wanderte in die Berge, weit weg von der Zivilisation, und fand einen kleinen, abgelegenen See, umgeben von hohen Bäumen und sanften Hügeln. Hier fühlte sie sich sofort zu Hause.\n\nAls Lara am See saß und die Augen schloss, hörte sie die Stille um sich herum. Es war eine beruhigende Stille, die sie umarmte und ihr das Gefühl gab, eins mit der Natur zu sein. Doch als sie genauer hinhörte, bemerkte sie, dass die Stille nicht nur Ruhe war. Sie hörte das sanfte Rauschen des Wassers, das Rascheln der Blätter im Wind und sogar das entfernte Zwitschern der Vögel.\n\nLara entschied, dass sie diese Klänge festhalten wollte. Sie begann zu zeichnen, während sie die Natur um sich herum beobachtete. Sie wollte die Harmonie zwischen der Stille und den sanften Klängen festhalten. Ihre Zeichnungen wurden lebendig, und sie konnte die Emotionen, die sie fühlte, auf die Leinwand bringen.\n\nNach Tagen der Schöpfung fühlte sich Lara erfüllt. Sie hatte die perfekte Balance zwischen Stille und Klang gefunden, und ihre Kunst spiegelte diese Harmonie wider. Als sie schließlich in die Stadt zurückkehrte, brachte sie ihre Erkenntnisse mit: dass die Stille nicht einfach das Fehlen von Lärm war, sondern ein Raum für Kreativität, den man nur finden konnte, wenn man bereit war, zuzuhören."
+        android:textColor="@color/white"
+        android:textSize="24sp" />
+</ScrollView>

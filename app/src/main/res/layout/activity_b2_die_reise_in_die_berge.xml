@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/mitteGrau"
+    tools:context="a1geschichten.GebutsTag">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+
+        android:fontFamily="casual"
+        android:text="Die Reise in die Berge\n\nAnna und ihre Freunde beschlossen, eine Reise in die Berge zu machen, um dem hektischen Stadtleben zu entfliehen. Sie planten alles sorgfältig und packten ihre Rucksäcke mit allem Notwendigen: warme Kleidung, Essen, Wasser und eine Kamera, um die wunderschöne Landschaft festzuhalten. Früh am Morgen machten sie sich auf den Weg, und je weiter sie fuhren, desto höher wurden die Berge und desto klarer wurde die Luft.\n\nAls sie das Basislager erreichten, waren sie begeistert von der Aussicht. Die Berge ragten majestätisch in den Himmel, und der Schnee glitzerte in der Sonne. Sie entschieden sich, einen anspruchsvollen Wanderweg zu nehmen, der sie zu einem abgelegenen Gipfel führen würde. Der Weg war steil und anspruchsvoll, aber Anna und ihre Freunde halfen sich gegenseitig, die schwierigen Stellen zu überwinden. Der Duft der Kiefern und das Geräusch des knirschenden Schnees unter ihren Füßen begleiteten sie den ganzen Weg.\n\nNach mehreren Stunden anstrengenden Kletterns erreichten sie endlich den Gipfel. Die Aussicht war atemberaubend. Sie konnten das Tal unter sich sehen, mit kleinen Häusern, die wie Spielzeug aussahen, und einem Fluss, der sich durch die Landschaft schlängelte. Der Wind wehte kühl, aber es war ein Gefühl von Freiheit und Frieden in der Luft. Anna machte ein Foto von ihren Freunden, die triumphierend ihre Arme in die Luft streckten.\n\nWährend sie dort oben saßen und ihre Snacks genossen, begann die Sonne langsam unterzugehen. Die Farben des Himmels wechselten von Blau zu Rosa, Orange und schließlich zu einem tiefen Rot. Es war ein Moment, den sie niemals vergessen würden. In der Stille der Berge fühlten sie sich einander näher als je zuvor und waren dankbar für diesen gemeinsamen Moment.\n\nAls es dunkel wurde, machten sie sich auf den Rückweg zum Basislager. Sie zündeten ein Lagerfeuer an und setzten sich darum, um sich zu wärmen. Einer ihrer Freunde erzählte Geschichten über alte Sagen und Legenden, die in diesen Bergen entstanden waren. Die Flammen tanzten im Wind, und die Sterne funkelten hell am klaren Nachthimmel.\n\nAuf dem Heimweg sprachen sie darüber, wie die Reise sie verändert hatte. Sie hatten nicht nur eine körperliche Herausforderung gemeistert, sondern auch gelernt, was wahre Freundschaft und Zusammenhalt bedeuten. Anna wusste, dass diese Erfahrung sie alle enger zusammengebracht hatte, und sie schworen sich, solche Abenteuer auch in Zukunft gemeinsam zu erleben."
+        android:textColor="@color/white"
+        android:textSize="24sp" />
+</ScrollView>

@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.GeschichtenLesenUndHoren"
+        tools:targetApi="31">
+        <activity
+            android:name=".Advice"
+            android:exported="false" />
+        <activity
+            android:name=".C1DieBruckederTraume"
+            android:exported="false" />
+        <activity
+            android:name=".C1DieBrUckeDerTraume"
+            android:exported="false" />
+        <activity
+            android:name=".C1DerKlangDerStille"
+            android:exported="false" />
+        <activity
+            android:name=".C1DieFarbenderErinnerung"
+            android:exported="false" />
+        <activity
+            android:name=".C1DasErbeDerWellen"
+            android:exported="false" />
+        <activity
+            android:name=".C1DerFluchDesVerborgenenTempels"
+            android:exported="false" />
+        <activity
+            android:name=".C1DasGeheimnisDerAltenBibliothek"
+            android:exported="false" />
+        <activity
+            android:name=".C1DieRuckkehrDesReisenden"
+            android:exported="false" />
+        <activity
+            android:name=".C1DieVerborgeneWahrheit"
+            android:exported="false" />
+        <activity
+            android:name=".C1DieSchattenDerVergangenheit"
+            android:exported="false" />
+        <activity
+            android:name="B2Geschichten.B2DieVerborgeneBibliothek"
+            android:exported="false" />
+        <activity
+            android:name="B2Geschichten.B2DieReiseDerTraume"
+            android:exported="false" />
+        <activity
+            android:name="B2Geschichten.B2DasVerschwundeneGemalde"
+            android:exported="false" />
+        <activity
+            android:name="B2Geschichten.B2DasGeheimnisDesWaldes"
+            android:exported="false" />
+        <activity
+            android:name="B2Geschichten.B2DerLetzteFlug"
+            android:exported="false" />
+        <activity
+            android:name="B2Geschichten.B2DieVerloreneStadt"
+            android:exported="false" />
+        <activity
+            android:name="B2Geschichten.B2DerGrosseWettlauf"
+            android:exported="false" />
+        <activity
+            android:name="B2Geschichten.B2DerMysterioseFremde"
+            android:exported="false" />
+        <activity
+            android:name="B2Geschichten.B2DasVerloreneTagebuch"
+            android:exported="false" />
+        <activity
+            android:name="B2Geschichten.B2DieReiseInDieBerge"
+            android:exported="false" />
+        <activity
+            android:name="b1Geschichte.DerZauberkunstlerImPark"
+            android:exported="false" />
+        <activity
+            android:name="b1Geschichte.DerVerloreneHund"
+            android:exported="false" />
+        <activity
+            android:name="b1Geschichte.DasGeheimeVersteck"
+            android:exported="false" />
+        <activity
+            android:name="b1Geschichte.B1_DieNeueSchule"
+            android:exported="false" />
+        <activity
+            android:name="b1Geschichte.EinTagImTierpark"
+            android:exported="false" />
+        <activity
+            android:name="b1Geschichte.DerWintermarkt"
+            android:exported="false" />
+        <activity
+            android:name="b1Geschichte.DasGeheimnisDesAltenHauses"
+            android:exported="false" />
+        <activity
+            android:name="b1Geschichte.EinAbenteuerImWald"
+            android:exported="false" />
+        <activity
+            android:name="b1Geschichte.DerNeueNachbar"
+            android:exported="false" />
+        <activity
+            android:name="b1Geschichte.DieReiseAnsMeer"
+            android:exported="false" />
+        <activity
+            android:name=".C2Seite"
+            android:exported="false" />
+        <activity
+            android:name=".C1Seite"
+            android:exported="false" />
+        <activity
+            android:name=".B2Seite"
+            android:exported="false" />
+        <activity
+            android:name=".B1Geschichte"
+            android:exported="false" />
+        <activity
+            android:name="a2_Geschichten.schnee_layout"
+            android:exported="false" />
+        <activity
+            android:name="a2_Geschichten.Der_neue_Schuler_layout"
+            android:exported="false" />
+        <activity
+            android:name="a2_Geschichten.kino_layout"
+            android:exported="false" />
+        <activity
+            android:name="a2_Geschichten.party_layout"
+            android:exported="false" />
+        <activity
+            android:name="a2_Geschichten.Zoo_layout"
+            android:exported="false" />
+        <activity
+            android:name="a2_Geschichten.ball_layout"
+            android:exported="false" />
+        <activity
+            android:name="a2_Geschichten.EinTagAmMeer_layout"
+            android:exported="false" />
+        <activity
+            android:name="a2_Geschichten.DerGeburtstagvonLena_laout"
+            android:exported="false" />
+        <activity
+            android:name="a2_Geschichten.fahrrad_laout"
+            android:exported="false" />
+        <activity
+            android:name="a1geschichten.Freundschaft"
+            android:exported="false" />
+        <activity
+            android:name=".A2Seite"
+            android:exported="false" />
+        <activity
+            android:name="a1geschichten.Supermarkt"
+            android:exported="false" />
+        <activity
+            android:name="a1geschichten.Geburtstagsfeier"
+            android:exported="false" />
+        <activity
+            android:name="a1geschichten.Vogel"
+            android:exported="false" />
+        <activity
+            android:name="a1geschichten.Schuler"
+            android:exported="false" />
+        <activity
+            android:name="a1geschichten.Ausflug"
+            android:exported="false" />
+        <activity
+            android:name="a1geschichten.imPark"
+            android:exported="false" />
+        <activity
+            android:name="a1geschichten.Spielzeug"
+            android:exported="false" />
+        <activity
+            android:name="a1geschichten.DieReise"
+            android:exported="false" />
+        <activity
+            android:name="a1geschichten.dieSchule"
+            android:exported="false" />
+        <activity
+            android:name="a1geschichten.GebutsTag"
+            android:exported="false" />
+        <activity
+            android:name="a1geschichten.DieKatzeUndDerHundGeschichten"
+            android:exported="false" />
+        <activity
+            android:name=".A1Seite"
+            android:exported="false" />
+        <activity
+            android:name=".Niveaus"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/mitteGrau"
+    tools:context="a1geschichten.GebutsTag">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+
+        android:fontFamily="casual"
+        android:text="Das Erbe der Wellen\n\nAm Rande eines kleinen Fischerdorfes lebte ein alter Seemann namens Jakob, der für seine unglaublichen Geschichten über das Meer bekannt war. Er sprach von Stürmen, die ganze Schiffe verschlangen, und von Meerjungfrauen, die in den tiefsten Tiefen des Ozeans lebten. Doch Jakob hatte ein Geheimnis: Er war der letzte Nachfahre einer alten Seefahrerfamilie, die seit Generationen die Geheimnisse des Meeres bewahrte.\n\nEines Tages, als Jakob am Strand saß und die Wellen beobachtete, fand er eine merkwürdige Muschel. Als er sie aufhob, hörte er eine Stimme, die ihm zuflüsterte. Die Stimme sprach von einem verlorenen Schatz, der tief im Meer verborgen war. Jakob wusste, dass dies sein Schicksal war, und beschloss, den Schatz zu suchen.\n\nMit einem kleinen Boot und seiner treuen Katze Luna machte sich Jakob auf den Weg. Er wusste, dass die Suche gefährlich sein würde, doch der Drang, die Geheimnisse seiner Familie zu entdecken, war stärker. Auf seinem Weg begegnete er anderen Fischern, die von seinem Vorhaben erfuhren und ihn warnten. Sie sagten, dass das Meer unbarmherzig sei und dass viele, die nach dem Schatz suchten, nie zurückkehrten.\n\nJakob ließ sich nicht von seinen Zweifeln abhalten. Er folgte den Hinweisen, die ihm die Muschel gegeben hatte, und tauchte in die Tiefen des Ozeans. Dort fand er nicht nur den Schatz, sondern auch alte Artefakte und Relikte, die Geschichten von alten Seefahrern erzählten. Doch je tiefer er tauchte, desto mehr spürte er die Kraft des Meeres, die ihn zu erdrücken drohte.\n\nGerade als Jakob dachte, er könnte den Schatz nicht erreichen, erinnerte er sich an die Geschichten seines Großvaters, die ihm Mut gaben. Er kämpfte gegen die Strömungen an und erreichte schließlich den Schatz: eine Truhe voller Gold und Edelsteine, die die Geschichten seiner Vorfahren bewahrte. Jakob wusste, dass er das Erbe der Wellen nicht nur für sich selbst, sondern auch für die kommenden Generationen bewahren musste."
+        android:textColor="@color/white"
+        android:textSize="24sp" />
+</ScrollView>

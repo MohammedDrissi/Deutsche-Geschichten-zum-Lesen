@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/mitteGrau"
+    tools:context="a1geschichten.GebutsTag">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+
+        android:fontFamily="casual"
+        android:text="Die Reise ans Meer\n\nEs war ein heißer Sommertag, als Familie Schulz beschloss, ans Meer zu fahren. Sie packten ihre Sachen ins Auto und machten sich früh morgens auf den Weg. Die Kinder, Mia und Ben, waren sehr aufgeregt. Sie hatten ihre Schwimmringe und Sandspielzeug mitgenommen.\n\nAls sie das Meer erreichten, stürmten Mia und Ben sofort ins Wasser. Die Wellen waren groß und das Wasser war kühl. Sie spritzten herum und bauten Sandburgen am Strand. Währenddessen lasen die Eltern unter einem Sonnenschirm ein Buch und genossen die Ruhe.\n\nNach einer Weile beschlossen sie, eine Bootsfahrt zu machen. Sie mieteten ein kleines Boot und fuhren hinaus auf das Meer. Mia hielt ihre Hand ins Wasser und lachte, als die Fische unter ihr schwammen. Ben sah einen großen Fisch und rief begeistert: „Schau mal, Papa, ein großer Fisch!“\n\nAls sie zurückkehrten, machten sie ein Picknick am Strand. Es gab frische Früchte, Brot und Käse. Sie sahen zu, wie die Sonne langsam unterging und der Himmel in schönen Farben leuchtete. Es war ein perfekter Tag, den sie nie vergessen würden.\n\nAuf dem Heimweg sprachen sie über all die schönen Momente und planten schon ihre nächste Reise ans Meer. Sie wussten, dass solche Tage im Sommer das Beste waren und dass sie viele Erinnerungen gesammelt hatten, die für immer bleiben würden."
+        android:textColor="@color/white"
+        android:textSize="24sp" />
+</ScrollView>

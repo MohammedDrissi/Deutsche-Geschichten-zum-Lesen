@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/mitteGrau"
+    tools:context="a1geschichten.GebutsTag">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+
+        android:fontFamily="casual"
+        android:text="Ein Tag im Park\n\nEs war ein sonniger Tag, und die Familie Schmidt beschloss, in den Park zu gehen. Sie packten eine Decke, etwas Essen und ein paar Spiele ein. Die Kinder, Mia und Ben, waren sehr aufgeregt. Als sie im Park ankamen, suchten sie einen schönen Platz unter einem großen Baum und breiteten die Decke aus.\n\nZuerst spielten Mia und Ben mit ihrem Ball. Sie warfen den Ball hin und her und versuchten, ihn nicht fallen zu lassen. Mia lachte und rief: „Ben, fang den Ball!“ Ben sprang hoch und fing den Ball geschickt. Ihre Eltern schauten ihnen zu und applaudierten.\n\nNach dem Spielen setzten sie sich alle auf die Decke und aßen ein leckeres Picknick. Es gab Sandwiches, Äpfel und Kekse. Mia biss in einen Apfel und sagte: „Dieser Apfel ist so süß und lecker!“ Ben nickte und trank seine Limonade. Sie genossen die warme Sonne und die frische Luft.\n\nAm Ende des Tages, als die Sonne langsam unterging, legten sich Mia und Ben auf die Decke und schauten "
+        android:textColor="@color/white"
+        android:textSize="24sp" />
+</ScrollView>

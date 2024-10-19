@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/mitteGrau"
+    tools:context="a1geschichten.GebutsTag">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+
+        android:fontFamily="casual"
+        android:text="Der letzte Flug\n\nLena war eine erfahrene Pilotin, die die ganze Welt bereist hatte. Sie hatte alles gesehen, von den Wüsten Afrikas bis zu den eisigen Landschaften der Antarktis. Doch eines Tages erhielt sie eine Mission, die alles verändern sollte. Sie sollte ein altes Flugzeug in einen entlegenen Teil der Berge fliegen, um dort wichtige Medikamente zu liefern.\n\nDer Flug begann ruhig, der Himmel war klar und die Sicht ausgezeichnet. Doch plötzlich zog ein Sturm auf, stärker als alles, was Lena je erlebt hatte. Der Wind riss an ihrem Flugzeug, und Blitze erhellten den Himmel. Sie kämpfte gegen die Turbulenzen und versuchte, das Flugzeug stabil zu halten, aber die Instrumente fielen aus.\n\nLena wusste, dass sie eine Notlandung machen musste. Sie entdeckte eine kleine Lichtung zwischen den Bergen und setzte das Flugzeug dort auf. Die Landung war hart, aber sie hatte es geschafft. Sie war sicher, aber weit weg von ihrem Ziel und ohne Kontakt zur Außenwelt. Die Nacht brach herein, und Lena musste sich entscheiden, ob sie auf Hilfe warten oder alleine losziehen sollte.\n\nAm nächsten Morgen machte sie sich auf den Weg. Sie nahm nur das Nötigste mit und begann den beschwerlichen Marsch durch die Berge. Die Kälte war unerträglich, und der Schnee lag meterhoch. Doch Lena gab nicht auf. Sie wusste, dass die Menschen auf die Medikamente angewiesen waren und dass es keine andere Möglichkeit gab.\n\nNach Tagen der Strapazen erreichte sie schließlich ein kleines Dorf. Die Bewohner begrüßten sie mit offenen Armen und halfen ihr, die Medikamente zu verteilen. Lenas Entschlossenheit und ihr Mut hatten ihnen das Leben gerettet. Sie war erschöpft, aber auch glücklich, dass sie es geschafft hatte.\n\nZurück in der Stadt wurde Lena als Heldin gefeiert. Doch für sie war es mehr als nur eine Rettungsmission. Es war eine Erinnerung daran, dass selbst in den schwierigsten Momenten, wenn alles aussichtslos erscheint, der Wille, weiterzukämpfen, den Unterschied machen kann. Sie wusste, dass sie noch viele Flüge vor sich hatte, aber dieser letzte Flug würde immer einen besonderen Platz in ihrem Herzen haben."
+        android:textColor="@color/white"
+        android:textSize="24sp" />
+</ScrollView>

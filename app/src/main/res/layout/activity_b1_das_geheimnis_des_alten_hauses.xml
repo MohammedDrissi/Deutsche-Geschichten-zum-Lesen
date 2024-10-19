@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/mitteGrau"
+    tools:context="a1geschichten.GebutsTag">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+
+        android:fontFamily="casual"
+        android:text="Das Geheimnis des alten Hauses\n\nIn einer kleinen Stadt stand ein altes, verlassenes Haus am Ende der Straße. Die Leute erzählten sich, dass das Haus ein Geheimnis verbarg. Anna und Lukas, zwei neugierige Kinder, beschlossen, das Geheimnis zu lüften.\n\nEines Nachmittags schlichen sie sich zum Haus. Die Tür war alt und knarrte, als sie sie öffneten. Drinnen war es dunkel und staubig. Überall lagen alte Möbel und kaputte Lampen. Sie gingen langsam durch die Räume, als sie plötzlich ein Geräusch hörten.\n\nLukas sagte: „Hast du das gehört?“ Anna nickte und beide gingen weiter. Sie fanden eine Treppe, die in den Keller führte. Unten sahen sie eine alte Kiste. Lukas öffnete sie vorsichtig und fand ein altes Tagebuch.\n\nDas Tagebuch erzählte die Geschichte eines alten Mannes, der dort gelebt hatte. Er war ein Künstler und hatte viele Bilder gemalt. Die Kinder fanden auch einige seiner Bilder, die wunderschön waren. Sie beschlossen, das Tagebuch in die Bibliothek der Stadt zu bringen, damit alle es lesen konnten.\n\nAm nächsten Tag erzählten sie ihren Freunden von ihrer Entdeckung. Die Geschichte des alten Künstlers wurde in der Stadt bekannt, und die Leute kamen, um das Haus und die Bilder zu sehen. Anna und Lukas waren stolz auf ihre Entdeckung und freuten sich, dass sie das Geheimnis gelöst hatten."
+        android:textColor="@color/white"
+        android:textSize="24sp" />
+</ScrollView>

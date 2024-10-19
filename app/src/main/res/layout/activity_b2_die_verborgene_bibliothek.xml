@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/mitteGrau"
+    tools:context="a1geschichten.GebutsTag">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+
+        android:fontFamily="casual"
+        android:text="Die verborgene Bibliothek\n\nIm Herzen einer alten Universität gab es das Gerücht über eine verborgene Bibliothek, die nur wenigen bekannt war. Es hieß, dass sie Bücher und Manuskripte enthielt, die seit Jahrhunderten nicht mehr gesehen worden waren. Sophie, eine leidenschaftliche Studentin der Literatur, hörte von dieser Bibliothek und beschloss, sie um jeden Preis zu finden.\n\nSophie verbrachte viele Stunden in der Hauptbibliothek und studierte alte Pläne des Universitätsgebäudes. Eines Nachts entdeckte sie einen versteckten Hinweis in einem alten Buch. Es war eine Notiz, die auf einen geheimen Durchgang in den Katakomben unter der Universität hinwies. Sophie wusste, dass sie auf dem richtigen Weg war.\n\nMit einer Taschenlampe und einem mutigen Herzen stieg sie hinab in die Dunkelheit der Katakomben. Die Wände waren feucht und mit Spinnweben bedeckt, und ein kalter Wind wehte durch die engen Gänge. Doch Sophie ließ sich nicht abschrecken. Schließlich fand sie eine schwere Holztür, die mit einem alten Schloss verschlossen war.\n\nMit etwas Mühe und Geschick gelang es ihr, das Schloss zu knacken. Als sie die Tür öffnete, betrat sie einen Raum voller Staub und vergessener Bücher. Es war die verborgene Bibliothek! Überall standen Regale mit alten, handgeschriebenen Manuskripten und Büchern, die von längst vergangenen Zeiten erzählten.\n\nSophie konnte es kaum glauben. Sie fühlte sich wie in einem Traum, als sie die Bücher durchblätterte und die Worte der alten Schriftsteller las. Sie wusste, dass sie etwas Besonderes gefunden hatte, etwas, das die Welt verändern könnte. Doch sie beschloss, die Existenz der Bibliothek geheim zu halten, um die Bücher vor denen zu schützen, die sie zerstören könnten.\n\nZurück an der Oberfläche erzählte sie nur wenigen engen Freunden von ihrer Entdeckung. Gemeinsam beschlossen sie, die verborgene Bibliothek zu erhalten und ihr Wissen mit Bedacht weiterzugeben. Sophie wusste, dass sie einen Schatz gefunden hatte, der nicht in Gold oder Silber aufgewogen werden konnte, sondern in den Worten und Gedanken, die die Welt bereichern würden."
+        android:textColor="@color/white"
+        android:textSize="24sp" />
+</ScrollView>

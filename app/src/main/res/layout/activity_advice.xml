@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/mitteGrau"
+    tools:context="a1geschichten.GebutsTag">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+
+        android:fontFamily="casual"
+        android:text=" Hallo, ich bin Drissi, der Entwickler dieser App. Ich möchte dir ein paar Tipps geben, wie du diese App optimal nutzen kannst, um das Beste daraus zu machen.\n\n\ 1 : Starte immer mit dem ersten Niveau. Gehe erst dann zum nächsten über, wenn du die aktuelle Geschichte gut verstanden hast.\n\n 2 : Nimm dir Zeit, um die Geschichten wirklich zu verstehen. Sprache zu lernen braucht Zeit, sei geduldig. \n\n 3 : Lies am besten eine Geschichte pro Tag oder mindestens drei Geschichten pro Woche, damit du nicht vergisst, was du gelernt hast.\n\n 4 : Setze dir kleine Ziele und gehe Schritt für Schritt vor. So erreichst du am Ende dein großes Ziel! \n\n Viel Erfolg beim Lesen und Lernen! Ich hoffe, dass dir die App auf deinem Weg zur Verbesserung deiner Deutschkenntnisse hilft."
+        android:textColor="@color/white"
+        android:textSize="24sp" />
+</ScrollView>

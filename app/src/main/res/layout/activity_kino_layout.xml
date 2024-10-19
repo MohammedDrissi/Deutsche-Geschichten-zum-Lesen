@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/mitteGrau"
+    tools:context="a1geschichten.GebutsTag">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+
+        android:fontFamily="casual"
+        android:text="Das erste Mal im Kino\n\nMarkus ging zum ersten Mal ins Kino. Er war sehr aufgeregt und konnte es kaum erwarten, den großen Bildschirm zu sehen. Sein Vater kaufte Popcorn und Cola, und sie setzten sich auf die weichen Kinosessel.\n\nDer Film begann, und Markus schaute mit großen Augen auf die Leinwand. Er liebte die lustigen Figuren und die spannende Geschichte. Manchmal lachte er laut, und manchmal hielt er die Luft an.\n\nAm Ende des Films klatschten alle, und Markus war glücklich. Er sagte zu seinem Vater: „Das war der beste Tag meines Lebens! Ich möchte bald wieder ins Kino gehen.“"
+        android:textColor="@color/white"
+        android:textSize="24sp" />
+</ScrollView>

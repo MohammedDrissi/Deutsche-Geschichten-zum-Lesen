@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/mitteGrau"
+    tools:context="a1geschichten.GebutsTag">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+
+        android:fontFamily="casual"
+        android:text="Der große Wettlauf\n\nJedes Jahr veranstaltet die Stadt den großen Wettlauf, bei dem die besten Läufer aus der Region gegeneinander antreten. Dieses Jahr war etwas anders: Jonas, ein bisher unbekannter Läufer, hatte sich angemeldet. Niemand kannte ihn, und viele zweifelten daran, dass er gegen die erfahrenen Athleten eine Chance hätte.\n\nAls der Startschuss fiel, begannen alle Läufer voller Energie zu rennen. Jonas hielt sich zunächst im Hintergrund, beobachtete seine Konkurrenten und sparte seine Kräfte. Die Menge am Straßenrand jubelte, und die Stimmung war elektrisierend. Nach der ersten Hälfte des Rennens begann Jonas, seinen Rhythmus zu finden und schob sich langsam nach vorne.\n\nViele der erfahrenen Läufer begannen zu ermüden, doch Jonas wirkte frisch und fokussiert. Mit jedem Schritt holte er mehr auf, und kurz vor dem Ziel hatte er nur noch zwei Läufer vor sich. Die Zuschauer konnten es kaum fassen, als er kurz vor der Ziellinie noch einen Sprint hinlegte und als Erster ins Ziel lief.\n\nDie Menge tobte und jubelte Jonas zu. Er hatte das Unmögliche geschafft und den großen Wettlauf gewonnen. Nach dem Rennen fragte ihn ein Reporter, wie er es geschafft habe, so stark zu bleiben. Jonas lächelte und erklärte, dass er in den Bergen trainiert hatte, wo die Luft dünner und das Gelände härter war. Das hatte ihm die Kraft und Ausdauer gegeben, die er brauchte.\n\nSein Sieg wurde zur Inspiration für viele in der Stadt. Er zeigte ihnen, dass es nicht nur auf Erfahrung ankommt, sondern auch auf den Willen und die Entschlossenheit, niemals aufzugeben. Jonas wurde zum Helden des Tages, und sein Name wurde in die Geschichte des großen Wettlaufs eingetragen."
+        android:textColor="@color/white"
+        android:textSize="24sp" />
+</ScrollView>

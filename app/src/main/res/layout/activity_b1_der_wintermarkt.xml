@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/mitteGrau"
+    tools:context="a1geschichten.GebutsTag">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+
+        android:fontFamily="casual"
+        android:text="Der Wintermarkt\n\nJedes Jahr im Dezember gibt es in der Stadt einen großen Wintermarkt. Die Straßen sind mit Lichtern geschmückt, und überall duftet es nach gebrannten Mandeln und heißem Glühwein. Die Menschen kommen von weit her, um den Markt zu besuchen.\n\nMarie und ihre Familie gingen dieses Jahr zum ersten Mal gemeinsam hin. Sie freuten sich auf die vielen Stände mit handgemachten Geschenken, warmen Schals und leckeren Speisen. Marie kaufte eine schöne Kerze für ihre Mutter und eine warme Mütze für ihren Bruder.\n\nSie gingen zu einem Stand, wo es heiße Schokolade gab, und tranken eine Tasse, um sich aufzuwärmen. Dann sahen sie den großen Weihnachtsbaum in der Mitte des Marktes. Die Kinder sangen Weihnachtslieder, und es war eine festliche Stimmung.\n\nAm Abend gab es ein großes Feuerwerk, das den Himmel erleuchtete. Marie und ihre Familie standen zusammen und schauten in den Himmel. Sie waren glücklich und wussten, dass dieser Wintermarkt etwas ganz Besonderes war.\n\nAls sie nach Hause gingen, sprach Marie über all die schönen Dinge, die sie gesehen hatte, und beschloss, nächstes Jahr wiederzukommen. Der Wintermarkt war ein Ort, an dem Träume wahr wurden."
+        android:textColor="@color/white"
+        android:textSize="24sp" />
+</ScrollView>

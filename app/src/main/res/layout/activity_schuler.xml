@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/mitteGrau"
+    tools:context="a1geschichten.GebutsTag">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+
+        android:fontFamily="casual"
+        android:text="Der neue Schüler\n\nIn der Schule von Max gibt es einen neuen Schüler. Er heißt Leo und kommt aus einer anderen Stadt. Am ersten Tag ist Leo sehr nervös. Er kennt niemanden und fühlt sich ein bisschen allein. Max sieht Leo und geht zu ihm. Er sagt: „Hallo, ich bin Max. Wie heißt du?“ Leo lächelt und sagt: „Ich heiße Leo.“ Max fragt: „Möchtest du mit mir spielen?“ Leo nickt und sie gehen zusammen auf den Schulhof.\n\nDie beiden Jungen spielen Fußball. Max schießt den Ball zu Leo, und Leo schießt zurück. Die anderen Kinder schauen zu und rufen: „Wow, Leo ist ein guter Spieler!“ Leo freut sich und fühlt sich nicht mehr so allein. Nach dem Spiel sitzen Max und Leo auf der Bank. Max zeigt Leo die Schule und erklärt, wo das Klassenzimmer ist und wo die Toiletten sind.\n\nIn der Pause gehen Max und Leo in die Schulkantine. Dort kaufen sie sich ein Sandwich und einen Saft. Leo sagt: „Das Sandwich schmeckt gut.“ Max lacht und sagt: „Ja, das ist das beste Sandwich der Schule!“ Sie essen zusammen und reden über ihre Hobbys. Max mag Fußball und Leo mag Schwimmen. Sie entscheiden, dass sie zusammen im Park spielen werden.\n\nNach der Schule gehen Max und Leo nach Hause. Max sagt: „Willkommen in unserer Schule, Leo. Ich bin froh, dass du mein Freund bist.“ Leo lächelt und sagt: „Danke, Max. Du bist ein toller Freund.“ Die beiden Jungen winken sich zum Abschied zu und freuen sich auf den nächsten Schultag.&quot; "
+        android:textColor="@color/white"
+        android:textSize="24sp" />
+</ScrollView>

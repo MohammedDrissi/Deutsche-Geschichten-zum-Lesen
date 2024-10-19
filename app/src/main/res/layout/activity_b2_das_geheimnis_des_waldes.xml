@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/mitteGrau"
+    tools:context="a1geschichten.GebutsTag">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+
+        android:fontFamily="casual"
+        android:text="Das Geheimnis des Waldes\n\nIn einem kleinen Dorf am Rande eines dichten Waldes gingen viele seltsame Geschichten um. Die Menschen erzählten sich von seltsamen Lichtern, die nachts zwischen den Bäumen tanzten, und von Geräuschen, die niemand erklären konnte. Einige glaubten, dass der Wald verflucht war, andere waren überzeugt, dass dort alte Geister wohnten.\n\nJohannes, ein neugieriger junger Mann, beschloss, das Geheimnis des Waldes zu lüften. Er nahm seine Kamera und seine Taschenlampe und machte sich eines Nachts auf den Weg in den Wald. Die Dunkelheit umgab ihn, und das Knacken der Äste unter seinen Füßen ließ ihn frösteln. Doch er war entschlossen, herauszufinden, was wirklich hinter den Geschichten steckte.\n\nWährend er tiefer in den Wald vordrang, bemerkte er plötzlich ein schwaches Licht in der Ferne. Es bewegte sich schnell und schien in der Luft zu schweben. Johannes folgte dem Licht, obwohl sein Herz schneller schlug und sein Atem flacher wurde. Als er näher kam, sah er eine kleine Gruppe von Menschen, die um ein Feuer herumstanden und seltsame Rituale vollzogen.\n\nJohannes versteckte sich hinter einem Baum und beobachtete die Szene. Die Menschen trugen Masken und sangen in einer fremden Sprache. Er versuchte, ein Foto zu machen, doch in diesem Moment bemerkten sie ihn. Ein Mann in der Gruppe rief ihn auf, und das Licht erlosch plötzlich. Alles wurde still, und Johannes spürte eine eisige Hand auf seiner Schulter.\n\nDoch anstatt ihn zu bedrohen, luden sie ihn ein, sich zu ihnen zu setzen. Sie erklärten ihm, dass sie keine Geister waren, sondern eine alte Gemeinschaft, die sich dem Schutz des Waldes verschrieben hatte. Ihre Rituale waren ein Zeichen des Respekts gegenüber der Natur und ihren Geheimnissen. Sie zeigten Johannes die alten Symbole und erklärten ihm ihre Bedeutung.\n\nJohannes erkannte, dass der Wald kein verfluchter Ort war, sondern ein Ort voller Magie und Geschichten, die über Generationen weitergegeben wurden. Er versprach, das Geheimnis des Waldes zu bewahren und seine Schönheit zu schützen. Er ging zurück ins Dorf, doch er wusste, dass er den Wald nie wieder mit denselben Augen sehen würde. Die wahre Magie lag nicht in den Lichtern oder den Geräuschen, sondern in den Menschen, die sich um ihn kümmerten."
+        android:textColor="@color/white"
+        android:textSize="24sp" />
+</ScrollView>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/mitteGrau"
+    tools:context="a1geschichten.GebutsTag">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+
+        android:fontFamily="casual"
+        android:text="Das verlorene Tagebuch\n\nAls Sarah in den alten Kisten auf dem Dachboden ihres Großvaters stöberte, fand sie ein altes Tagebuch. Es war verstaubt und die Seiten waren vergilbt, doch als sie es öffnete, erkannte sie, dass es ihrem Urgroßvater gehört hatte. Voller Neugier begann sie zu lesen und entdeckte Geschichten aus einer längst vergangenen Zeit.\n\nDas Tagebuch erzählte von der Jugend ihres Urgroßvaters, von seinen Abenteuern und Träumen. Sarah war fasziniert, besonders als sie auf einen Eintrag stieß, der von einer geheimen Schatzkarte sprach. Die Karte sollte zu einem verborgenen Ort in den Wäldern hinter dem alten Familienhaus führen. Sie beschloss, diesem Geheimnis auf den Grund zu gehen und fragte ihren Bruder Max, ob er ihr helfen würde.\n\nGemeinsam machten sich Sarah und Max auf den Weg, ausgerüstet mit einer Kopie der alten Karte, einem Kompass und einer Taschenlampe. Sie folgten den Hinweisen im Tagebuch und suchten nach besonderen Markierungen auf den Bäumen, die ihnen den Weg zeigen sollten. Der Weg war beschwerlich, aber ihre Entschlossenheit ließ sie nicht aufgeben.\n\nNach stundenlanger Suche fanden sie schließlich einen alten, überwucherten Brunnen. Die Inschrift am Brunnenrand entsprach genau den Beschreibungen im Tagebuch. Max kletterte vorsichtig hinein, während Sarah oben blieb und das Seil hielt. Tief unten fand er eine kleine Kiste, die mit einem Schloss versehen war. Als sie die Kiste öffneten, fanden sie keine Goldmünzen, sondern alte Briefe und Bilder.\n\nDie Briefe erzählten die Geschichte einer verlorenen Liebe ihres Urgroßvaters, einer Frau, die er nie vergessen konnte. Die Bilder zeigten sie zusammen, jung und glücklich, an Orten, die Sarah nur aus alten Familiengeschichten kannte. Es wurde klar, dass dieser Schatz mehr wert war als jedes Gold: Er war eine Erinnerung an das Leben und die Liebe ihres Urgroßvaters.\n\nSarah und Max brachten die Kiste nach Hause und zeigten sie ihrer Familie. Ihre Eltern und Großeltern waren gerührt, als sie die alten Briefe lasen. Die Entdeckung des Tagebuchs und der Schatztruhe schuf eine Verbindung zu ihrer Familiengeschichte, die sie vorher nie so intensiv gespürt hatten. Es war ein Erlebnis, das sie nie vergessen würden, und eine Erinnerung daran, dass die wahren Schätze oft in den Geschichten unserer Vorfahren liegen."
+        android:textColor="@color/white"
+        android:textSize="24sp" />
+</ScrollView>

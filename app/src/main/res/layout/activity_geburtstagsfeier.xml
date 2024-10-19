@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/mitteGrau"
+    tools:context="a1geschichten.GebutsTag">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+
+        android:fontFamily="casual"
+        android:text="Die Geburtstagsfeier\n\nHeute ist Marias Geburtstag. Sie ist sehr aufgeregt, denn alle ihre Freunde kommen zu ihrer Feier. Im Wohnzimmer stehen viele bunte Luftballons und ein großer Kuchen auf dem Tisch. Maria hat sich ein schönes Kleid angezogen und wartet auf ihre Gäste. Endlich klingelt es an der Tür. Ihre Freunde kommen herein und rufen: „Überraschung!“ Maria ist so glücklich.\n\nDie Kinder spielen viele Spiele zusammen. Zuerst spielen sie „Topfschlagen“. Maria bekommt eine Augenbinde und sucht den Topf mit einem Löffel. Sie findet ihn und alle klatschen laut. Danach spielen sie „Blinde Kuh“. Es gibt viel Gelächter, als Maria ihre Freunde mit der Augenbinde fangen muss. Alle haben viel Spaß.\n\nNach den Spielen gibt es Kuchen und Limonade. Marias Mutter bringt den großen Kuchen mit den Kerzen herein. Alle singen: „Happy Birthday, liebe Maria!“ Maria pustet die Kerzen aus und wünscht sich etwas. Die Kinder essen den Kuchen und sagen: „Mmm, der ist lecker!“ Sie lachen und reden über ihre Geschenke.\n\nAm Ende der Feier packt Maria ihre Geschenke aus. Sie bekommt ein neues Buch, ein Puzzle und ein schönes Kuscheltier. Maria sagt: „Danke, ihr seid die besten Freunde der Welt!“ Ihre Freunde umarmen sie und sagen: „Wir haben dich auch lieb, Maria!“ Es war ein unvergesslicher Geburtstag und alle gehen glücklich nach Hause.&quot; "
+        android:textColor="@color/white"
+        android:textSize="24sp" />
+</ScrollView>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/mitteGrau"
+    tools:context="a1geschichten.GebutsTag">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+
+        android:fontFamily="casual"
+        android:text="Das Geheimnis der alten Bibliothek\n\nIn einer kleinen Stadt, am Ende einer abgelegenen Straße, stand eine alte Bibliothek, die seit Jahrzehnten verlassen war. Die Menschen in der Stadt erzählten sich Geschichten über diese Bibliothek, dass sie einst voller Bücher gewesen sei, die Wissen aus allen Teilen der Welt enthielten. Doch eines Tages verschwand der Bibliothekar spurlos und die Türen der Bibliothek wurden für immer geschlossen.\n\nJahre später entschied sich eine junge Historikerin namens Anna, das Geheimnis dieser Bibliothek zu lüften. Sie hatte von den Legenden gehört und war überzeugt, dass es mehr gab, als die Geschichten erzählten. Mit einer Taschenlampe und einer alten Karte, die sie gefunden hatte, machte sie sich auf den Weg, um die Bibliothek zu erkunden.\n\nAls Anna die verstaubten Türen öffnete, war sie überrascht, dass alles noch so aussah, als wäre es gestern verlassen worden. Die Bücherregale waren voll, doch die Bücher waren in einer seltsamen Sprache geschrieben, die Anna nicht kannte. Auf einem alten Tisch lag ein Buch, das hervorstach. Es war in Leder gebunden und mit einem seltsamen Symbol versehen.\n\nAnna öffnete das Buch und fand heraus, dass es eine Sammlung von Notizen des verschwundenen Bibliothekars war. Er hatte seine Reisen und Entdeckungen darin dokumentiert, darunter die Entdeckung einer antiken Zivilisation, die über ein unglaubliches Wissen verfügte. Der Bibliothekar hatte diese Bücher in die Bibliothek gebracht, um ihr Wissen zu bewahren, doch er hatte erkannt, dass diese Entdeckungen gefährlich sein könnten, wenn sie in die falschen Hände gerieten.\n\nAnna verstand, dass der Bibliothekar die Bibliothek absichtlich verschlossen hatte, um das Wissen zu schützen. Sie beschloss, seine Arbeit fortzusetzen und die Bücher zu studieren, um herauszufinden, was diese antike Zivilisation wusste. Sie wusste, dass sie vorsichtig sein musste, denn das Wissen in diesen Büchern könnte sowohl eine große Hilfe als auch eine große Gefahr für die Menschheit sein."
+        android:textColor="@color/white"
+        android:textSize="24sp" />
+</ScrollView>

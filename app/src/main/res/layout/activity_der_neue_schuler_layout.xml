@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/mitteGrau"
+    tools:context="a1geschichten.GebutsTag">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+
+        android:fontFamily="casual"
+        android:text="Der neue Schüler\n\nIn der Schule gab es einen neuen Schüler namens Paul. Am ersten Tag fühlte er sich ein wenig nervös, weil er niemanden kannte. Die Lehrerin stellte ihn der Klasse vor, und alle begrüßten ihn freundlich.\n\nIn der Pause saß Paul allein, bis Tom zu ihm kam und fragte: „Willst du mit uns spielen?“ Paul lächelte und sagte ja. Sie spielten zusammen Fußball und hatten viel Spaß.\n\nAm Ende des Tages sagte Paul: „Ich bin froh, dass ich hier bin und neue Freunde gefunden habe.“ Tom antwortete: „Wir sind auch froh, dass du bei uns bist.“"
+        android:textColor="@color/white"
+        android:textSize="24sp" />
+</ScrollView>

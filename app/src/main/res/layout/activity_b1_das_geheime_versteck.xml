@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/mitteGrau"
+    tools:context="a1geschichten.GebutsTag">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+
+        android:fontFamily="casual"
+        android:text="Das geheime Versteck\n\nPaul und sein Cousin Tim liebten es, draußen zu spielen. Eines Tages, während sie im Wald waren, entdeckten sie ein altes Baumhaus. Es war gut versteckt zwischen den hohen Bäumen, und niemand schien es zu kennen. „Das wird unser geheimes Versteck!“, sagte Paul begeistert.\n\nSie kletterten vorsichtig die alte Leiter hinauf und sahen sich um. Das Baumhaus war klein, aber stabil. Drinnen fanden sie alte Decken und ein paar leere Dosen. Sie beschlossen, das Baumhaus zu ihrem neuen Treffpunkt zu machen.\n\nAm nächsten Tag brachten sie Decken, Snacks und ein kleines Radio mit. Sie saßen im Baumhaus, hörten Musik und erzählten sich Geschichten. Tim schlug vor, ein Geheimcode zu erfinden, damit niemand anderes das Versteck finden konnte. Paul war begeistert von der Idee.\n\nSie verbrachten viele Nachmittage im Baumhaus, spielten Spiele und machten Pläne für ihre nächsten Abenteuer. Es wurde ihr besonderer Ort, an dem sie immer zusammen lachen konnten.\n\nAls der Sommer zu Ende ging, beschlossen sie, das Baumhaus gut zu verstecken und es im nächsten Jahr wieder zu besuchen. Sie wussten, dass sie viele Abenteuer erleben würden, aber das Baumhaus würde immer ihr geheimer Rückzugsort bleiben."
+        android:textColor="@color/white"
+        android:textSize="24sp" />
+</ScrollView>

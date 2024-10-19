@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/mitteGrau"
+    tools:context="a1geschichten.GebutsTag">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+
+        android:fontFamily="casual"
+        android:text="Im Supermarkt\n\nHeute geht Anna mit ihrer Mutter in den Supermarkt. Sie brauchen viele Sachen für das Abendessen. Anna schiebt den Einkaufswagen und ihre Mutter sagt: „Wir brauchen Tomaten, Brot und Milch.“ Anna nimmt die Tomaten und legt sie in den Wagen. Dann geht sie zum Brotregal und nimmt ein frisches Brot. „Mama, ich habe das Brot!“, ruft Anna fröhlich.\n\nAls nächstes gehen sie zur Milch. Anna sieht viele verschiedene Sorten und fragt: „Welche Milch sollen wir nehmen, Mama?“ Die Mutter sagt: „Wir nehmen die Vollmilch.“ Anna legt die Milch in den Wagen. Dann gehen sie weiter zum Obst und Gemüse. Anna wählt Bananen und Äpfel aus. Sie sagt: „Bananen sind mein Lieblingsobst!“\n\nAm Ende gehen sie zur Kasse. Die Kassiererin scannt alle Produkte und sagt: „Das macht 20 Euro.“ Annas Mutter gibt ihr das Geld und nimmt das Wechselgeld. Anna hilft, die Sachen in die Tüten zu packen. Sie sagt stolz: „Mama, ich habe gut geholfen, oder?“ Die Mutter lächelt und sagt: „Ja, Anna, du warst eine große Hilfe!“\n\nZuhause packen sie die Einkäufe aus. Anna legt die Tomaten in die Schüssel und das Brot auf den Tisch. Sie sagt: „Ich freue mich auf das Abendessen!“ Die Mutter nickt und sagt: „Danke, Anna. Du hast heute toll mitgemacht!“ Anna lächelt und fühlt sich sehr stolz.&quot; "
+        android:textColor="@color/white"
+        android:textSize="24sp" />
+</ScrollView>

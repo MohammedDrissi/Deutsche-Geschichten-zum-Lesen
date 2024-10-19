@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/mitteGrau"
+    tools:context="a1geschichten.GebutsTag">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+
+        android:fontFamily="casual"
+        android:text="Das verschwundene Gemälde\n\nIn einer renommierten Kunstgalerie in der Stadt hing ein berühmtes Gemälde, das als eines der wertvollsten Kunstwerke der Welt galt. Es war ein Meisterwerk von einem alten Maler, und viele Menschen kamen von weit her, um es zu sehen. Eines Morgens betrat der Direktor der Galerie den Ausstellungsraum und stellte schockiert fest, dass das Gemälde verschwunden war.\n\nDie Polizei wurde sofort gerufen, und Detektiv Fischer übernahm den Fall. Er war bekannt für seine scharfsinnige Beobachtungsgabe und seine unkonventionellen Methoden. Als er den Tatort untersuchte, fand er keine Anzeichen eines gewaltsamen Einbruchs. Alles schien in Ordnung, außer dass das Gemälde einfach nicht mehr da war.\n\nFischer begann, die Überwachungskameras zu analysieren. Auf den Aufnahmen war zu sehen, wie ein Mann in einem eleganten Anzug und mit einem seltsamen Hut die Galerie betrat. Er bewegte sich ruhig und selbstsicher, als ob er genau wusste, was er tat. Doch seltsamerweise schien er das Gemälde nie direkt anzusehen.\n\nWährend der Ermittlungen sprach Fischer mit den Angestellten der Galerie. Eine junge Mitarbeiterin erzählte ihm, dass der Mann ihr bekannt vorkam, aber sie konnte sich nicht genau erinnern, woher. Fischer folgte dieser Spur und entdeckte, dass der Mann ein ehemaliger Kunstfälscher war, der vor Jahren aus dem Gefängnis entlassen worden war.\n\nMit diesem Wissen im Hinterkopf stellte Fischer eine Falle. Er verbreitete das Gerücht, dass eine Kopie des gestohlenen Gemäldes in einer anderen Galerie ausgestellt werden würde. Tatsächlich erschien der verdächtige Mann in dieser Galerie und versuchte, das Gemälde erneut zu stehlen. Diesmal wurde er jedoch auf frischer Tat ertappt.\n\nDer Mann gestand schließlich, dass er das Originalgemälde gestohlen hatte, um eine perfekte Kopie davon anzufertigen. Er wollte die Kopie verkaufen und das Original für sich behalten. Dank Detektiv Fischers cleverer List konnte das wertvolle Kunstwerk zur Galerie zurückgebracht werden. Die Menschen waren erleichtert, und das Gemälde hing wieder an seinem Platz. Der Fall des verschwundenen Gemäldes ging als einer der beeindruckendsten Erfolge in die Geschichte der Detektivarbeit ein."
+        android:textColor="@color/white"
+        android:textSize="24sp" />
+</ScrollView>

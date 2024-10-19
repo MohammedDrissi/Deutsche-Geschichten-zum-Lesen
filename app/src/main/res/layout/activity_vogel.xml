@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/mitteGrau"
+    tools:context="a1geschichten.GebutsTag">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+
+        android:fontFamily="casual"
+        android:text="Der kleine Vogel\n\nEs war ein schöner Frühlingstag. Lina ging im Park spazieren. Sie hörte die Vögel singen und sah die Blumen blühen. Plötzlich sah sie einen kleinen Vogel auf dem Boden. Der Vogel war verletzt und konnte nicht fliegen. Lina kniete sich hin und sagte leise: „Oh, armer kleiner Vogel, was ist passiert?“ Sie nahm den Vogel vorsichtig in ihre Hände.\n\nLina brachte den Vogel nach Hause. Sie legte ihn in eine kleine Schachtel und gab ihm Wasser. Der Vogel trank ein wenig und sah Lina an. Lina sagte: „Keine Sorge, ich werde dir helfen.“ Sie rief ihre Mutter und erzählte ihr von dem Vogel. Die Mutter sagte: „Wir müssen den Vogel zum Tierarzt bringen.“\n\nBeim Tierarzt untersuchte der Doktor den Vogel und sagte: „Er hat einen kleinen Flügelbruch, aber er wird wieder gesund.“ Lina war froh und fragte: „Darf ich den Vogel behalten, bis er gesund ist?“ Der Tierarzt lächelte und sagte: „Ja, aber du musst ihn gut pflegen.“ Lina versprach, sich gut um den Vogel zu kümmern.\n\nZuhause baute Lina dem Vogel ein kleines Nest aus einer alten Kiste und ein paar Tüchern. Sie nannte den Vogel „Flitzi“. Jeden Tag gab sie ihm Futter und sprach mit ihm. Nach ein paar Wochen war Flitzi wieder gesund und konnte fliegen. Lina nahm ihn in den Garten und sagte: „Flieg, Flitzi, flieg!“ Der Vogel flog in den Himmel und zwitscherte fröhlich. Lina winkte ihm nach und wusste, dass sie einen Freund fürs Leben gewonnen hatte.&quot; "
+        android:textColor="@color/white"
+        android:textSize="24sp" />
+</ScrollView>
